@@ -7,7 +7,7 @@ Software developer and engineering manager
 I am constantly learning and forward to connecting with communities who share interests: software, technology, and innovation. I am a family man, sports enthusiast, and animal lover.
 
 * 🌍  I'm based in Madrid area
-* ✉️  You can contact me at [miguelvr88@gmail.com](mailto:miguelvr88@gmail.com)
+* ✉️  You can contact me at [contact@miguelvela.com](mailto:contact@miguelvela.com)
 * 🧠  I'm learning a bit of everything: new coding languages, architectural patterns, automation...
 * 🤝  I'm open to collaborating on personal projects. Feel free to reach out!
 
